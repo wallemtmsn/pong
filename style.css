@@ -1,0 +1,22 @@
+/* Defina o estilo da página aqui */
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    position: center;
+    text-align: center;
+    margin-top: 200px;
+
+}
+
+#titulo {
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
